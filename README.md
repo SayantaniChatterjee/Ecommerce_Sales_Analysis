@@ -1,1 +1,1 @@
-# Excel_Ecommerce_Sales_Analysis
+Flipkart Mobile Sales Dataset Overview - This dataset offers a comprehensive view of mobile phone sales on the e-commerce platform. It serves to provide valuable insights into the performance and trends of mobile phone sales on Flipkart's platform. These insights can be leveraged for optimizing marketing strategies, inventory management, pricing decisions, and understanding customer preferences.
